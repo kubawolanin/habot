@@ -1,0 +1,30 @@
+czy możesz przełączyć <START:object> światła <END> w sypialni <START:location> w sypialni <END>?
+włącz oświetlenie <START:object> <END>
+włącz <START:object> tv <END>
+uruchom <START:object> ac <END> proszę
+czy możesz włączyć <START:object> zmywarkę <END>
+włączyć <START:object> promiennik <END> w <START:location> kuchnia <END>
+włączyć <START:location> salon <END> <START:object> wentylator <END>
+uruchom <START:object> pralka <END>
+włącz <START:object> telewizor <END>
+włącz światła <START:object> <END>
+włącz <START:object> oświetlenie <END>
+aktywuj <START:object> ogrzewanie <END>
+włączyć <START:object> a / c <END> w salonie <START: location> <END>
+uruchom <START:object> wentylator <END> w sypialni <START: location> <END>
+uruchom <START:location> piwnica <END> <START:object> ogrzewanie <END>
+włączyć <START:object> pompa wody <END> w <START:location> piwnica <END>
+włączyć <START:object> ogrzewanie <END> na <START:location> pierwsze piętro <END>
+aktywować alarm <START:object> alarm <END>
+aktywować detekcję ruchu <START:object> <END> w <START:object> korytarz <END>
+włączyć <START:object> błyskawica <END> <START:location> parter <END>
+uruchom <START:object> ogrzewanie <END> w <START:location> garaż <END>
+uruchom <START:object> kocioł <END> w <START:location> garaż <END>
+Chcę trochę <START:object> światło <END> w sypialni <START: location> <END>
+Chcę <START:object> klimatyzacja <END> w sypialni <START: location> <END>
+Chcę <START:object> światła <END>
+Chcę <START:object> klimatyzacja <END> w sypialni <START: location> <END>
+Chciałbym <START:object> muzyka <END> w <START:location> łazienka <END> proszę
+Chciałbym trochę <START: object> music <END>
+możesz umieścić <START:object> światło <END> w sypialni <START: location> <END>
+Chcę <START:object> ogrzewanie <END> na <START:location> pierwsze piętro <END>

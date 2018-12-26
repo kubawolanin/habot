@@ -1,0 +1,23 @@
+ustaw <START:object> termostat <END> na <START:value> 23 °C <END>
+ustaw <START:object> temperaturę <END> na <START:value> 80 °F <END>
+zmień <START:object> temperaturę <END> w <START:value> 25 stopni <END>
+ustaw <START:object> światło <END> na <START:value> 75% <END>
+zmień <START:object> ogrzewanie <END> w <START:location> sypialni <END> na <START:value> 2 <END>
+ustaw <START:object> wiatrak <END> w <START:location> pokoju dziennym <END> na <START:value> 25% <END>
+zmień <START:object> głośność <END> w <START:location> kitchen <END> at <START:value> 70 % <END>
+ustaw <START:object> głośność muzyki <END> w <START:location> kuchni <END> at <START:value> 70 % <END>
+zmień color w <START:object> światło <END> w <START:location> łazience <END> <START:color> yellow <END>
+zmień kolor <START:object> światła <END> na <START:location> pierwszym piętrze <END> na <START:color> biały <END>
+ustaw <START:object> światło <END> w <START:color> sypialni <END> na <START:object> 30% <END>
+ustaw <START:object> ogrzewanie <END> w <START:location> guest house <END> na <START:color> 70°F <END>
+ustaw <START:object> światło <END> na <START:color> czerwony <END> kolor
+ustaw <START:object> światło <END> na <START:color> pomarańczowy <END> kolor
+ustaw <START:object> światło <END> w <START:location> guest house <END> na <START:color> niebieski <END>
+ustaw <START:object> światło <END> w <START:location> pool <END> na <START:color> czerwony <END>
+ustaw <START:object> światło <END> w <START:location> patio <END> na <START:color> fioletowy <END>
+ustaw <START:object> wentylator <END> w <START:location> pokoju gościnnym <END> na <START:value> 100% <END>
+put the <START:object> światło <END> in <START:color> blue <END>
+zmień <START:location> table <END> <START:object> światło <END> na <START:value> 100% <END>
+zmień <START:object> światło <END> w <START:location> jadalni <END> na <START:value> 100% <END>
+ustaw <START:object> telewizor <END> na <START:value> 100% <END>
+zmień <START:object> głośność <END> na <START:value> 40% <END>

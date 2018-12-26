@@ -1,0 +1,58 @@
+daj mi status <START:object> oświetlenie <END> na <START:location> pierwsze piętro <END>
+jaki jest stan <START:object> światła <END> w sypialni <START:location> <END>
+pokaż mi <START:object> temperatury <END> <START:location> drugie piętro <END>
+daj mi <START:object> jasność <END>
+daj mi <START:object> wilgotność <END> w <START:location> garażu <END>
+<START:object> wilgotność <END> na poddaszu <START:location> <END>
+<START:object> zużycie wody <END> w <START:location> kuchnia <END>
+bieżący <START:object> zużycie energii <END>
+<START:object> temperatura <END> w pomieszczeniu <START:location> <END>
+<START:object> ogrzewanie <END> w <START:location> kuchnia <END>
+<START:object> wentylator <END> w <START:location> patio <END>
+<START:object> temperatura <END> w <START:location> korytarz <END>
+<START:object> temperatura <END> na <START:location> parter <END>
+<START:object> temperatura <END> na <START:location> pierwsze piętro <END>
+<START:object> wentylator <END> w <START:location> patio <END>
+<START:object> światła <END> w <START:location> piwnica <END>
+<START:object> światła <END> na poddaszu <START:location> <END>
+<START:object> światła <END> w pensjonacie <START:location> <END>
+<START:object> wifi <END> w pensjonacie <START:location> <END>
+<START:object> wentylator <END> w <START:location> patio <END>
+<START:location> kuchnia <END> <START:object> światła <END>
+<START:location> na zewnątrz <END> <START:object> światła <END>
+<START:location> salon <END> <START:object> światła <END>
+<START:location> sypialnia <END> <START:object> światła <END>
+<START:object> klimatyzacja <END> w sypialni <START:location> <END>
+<START:object> temperatura <END> na <START:location> parterze <END>
+pokaż <START:object> światła <END> <START:location> na pierwszym piętrze <END>
+<START:object> ogrzewanie <END> na <START:location> parterze <END>
+to <START:object> drzwi przednie <END> otwórz
+jest zamknięte okno <START:object> <END>
+są <START:object> drzwi <END> zablokowane
+jak <START:object> ogrzewanie <END> w <START:location> Pokój Amy <END>
+<START:object> temperatura <END> w <START:location> sala Bena <END>
+<START:object> rollershutters <END> w <START:location> pokój Charlesa <END>
+<START:object> okno <END> w <START:location> Pokój Davida <END>
+jaki jest teraz <START:object> zużycie energii <END>
+pokaż mi <START:object> pompa wody <END>
+czy aktywny jest alarm <START:object> alarm <END>?
+powiedz mi, czy <START:object> fan <END> w salonie <START:location> <END> jest włączony
+czy <START:object> lodówka <END> w <START:location> kuchnia <KON> jest wyłączona?
+powiedz mi, jak <START:object> pompa ciepła <END> na poddaszu <START:location> <END>
+pokaż mi <START:object> ogrzewanie <END> w <START:location> piwnica <END>
+jest <START:object> tv <END> włączony
+jest sypialnia <START:location> <END> <START:object> tv <END> on
+czy możesz sprawdzić, czy <START:object> telewizor <END> w sypialni <START:location> <END> jest włączony
+pokaż <START:object> temperatura <END>
+podać <START:object> temperatura <END> w <START:location> łazienka <END>
+<START:object> światło <END> w <START:location> parter <END>
+<START:object> wilgotność <END> <START:location> ogród <END>
+czym jest <START:object> niedz azymut <END>
+jaka jest <START:object> wysokość księżyca <END>
+<START:object> temperatura <END> na <START:object> pierwsze piętro <END>
+<START:object> wilgotność <END> na <START:object> drugie piętro <END> proszę
+pokaż <START:object> czujniki <END> na <START:object> parter <END>
+powiedz mi, co to jest <START:object> temperatura <END> <START:location> basen <END>
+jest uruchomiona <START:object> pralka <END>
+jest uruchomiona teraz <START:object> pralka <END>
+powiedz mi, jak robi się maszyna <START:object> pralka <END>

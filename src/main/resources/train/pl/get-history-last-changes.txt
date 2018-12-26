@@ -1,0 +1,15 @@
+kiedy zmienił się <START:object> temperatura <END> po raz ostatni?
+podaj historię <START:object> ogrzewanie <END> w salonie <START: location> <END>
+ostatnie zmiany w statusie <START:object> wachlarz <END> w <START:location> kuchnia <END>
+pokaż mi ostatnie detekcje ruchu <START:object> <END> w <START:location> piwnica <END>
+wyświetl listę ostatnich alarmów <START:object> <END>
+kiedy otwarto <START:object> drzwi <END>?
+kiedy został wywołany alarm <START:object> alarm <END>?
+kiedy wykryłeś <START:object> ruch <END> w <START:location> ogród <END>
+kiedy wykryto ostatnio <START:object> ruch <END>?
+pokaż ostatnie zmiany w <START:object> żądana temperatura <END> <START:location> drugie piętro <END>
+W którym czasie <START:object> obecność <END> zmienił się po raz ostatni?
+podaj ostatnią datę i godzinę <START:object> telewizyjny <END>
+o której rozpoczęto projekt <START:object> <END>?
+o której godzinie był wyłączony <START:object> tv <END>?
+kiedy zatrzymał się odbiornik <START:object> <END>

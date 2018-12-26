@@ -1,0 +1,11 @@
+pokaż historię <START:object> temperatura <END> z ostatniego miesiąca
+Chciałbym wykres <START:object> zużycie energii <END> dla ostatniego miesiąca
+wykres <START:object> temperatura <END> w <START:location> salon <END> w tym miesiącu
+pokaż wykres <START:object> temperatura <END> w <START:location> kuchnia <END> w tym miesiącu
+<START:object> wilgotność <END> w <START:location> korytarz <END> dla ostatniego miesiąca
+pokaż miesięczny wykres dla <START:object> temperatura <END> w <START:location> łazienka <END>
+<START:object> temperatura <END> w <START:location> salon <END> dla ostatniego <START: okres> 3 <END> miesiące
+ewolucja <START:object> temperatura <END> w <START:location> jadalnia <END> powyżej <START: okres> 6 <END> miesiące
+zmiany <START:object> zużycie wody <END> w <START:location> ogród <END> ostatnie <START: okres> 3 <END> miesiące
+jaki był <START:object> zużycie gazu ziemnego <END> ostatniego <START: okres> 6 <END> miesięcy
+wykreślić <START:object> wilgotność <END> powyżej <START: okres> 2 <END> miesiące

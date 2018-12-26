@@ -1,0 +1,13 @@
+pokaż mi historię <START:object> temperatury <END> w ostatnim tygodniu
+Chcę wykres z ostatniego tygodnia dla <START:object> zużycie energii <END>
+tygodniowy wykres <START:object> temperatura <END> w <START:location> kuchnia <END>
+wykreślić <START:object> temperatura <END> dla <START:location> salonu <END> dla ostatniego <START: okres> 2 <END> tygodni
+<START:object> temperatura <END> w <START:location> salon <END> w poprzednim <START: okres> 6 <END> tygodnie
+ewolucja <START:object> temperatura <END> w <START:location> łazienka <END> dla tych <START: okres> 2 <END> tygodni
+zmiany w <START:object> temperatura <END> w <START:location> sypialnia <END> nad <START: okres> 6 <END> tygodnie
+<START:object> temperatura <END> w <START:location> salon <END> dla <START: okres> 12 <END> tygodni
+wykres <START:object> temperatura <END> w <START:location> sala Erica <END> w ciągu ostatnich <START: okres> 4 <END> tygodni
+proszę narysować mi wykres <START:object> wilgotność <END> w <START:location> pokój frank <END> ostatniego <START: okres> 8 <END> tygodni
+wykres <START:object> światła <END> w <START:location> korytarz na górze <END> dla ostatniego <START: okres> 3 <END> tygodni
+narysuj wykres <START:object> zużycie wody <END> w <START:location> korytarz na dole <END> dla ostatniego <START: okres> 3 <END> tygodni
+<START:object> nastawa temperatury <END> w <START:location> sypialnia główna <END> w okresie <START: okres> 6 <END> tygodnie

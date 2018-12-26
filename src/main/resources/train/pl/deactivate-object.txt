@@ -1,0 +1,30 @@
+wyłączyć <START:object> światła <END> w salonie <START: location> <END>
+proszę wyłączyć <START:object> światła <END>
+wyłącz <START:object> tv <END>
+możesz wyłączyć <START:object> pralkę <END>
+wyłączyć <START:object> ogrzewanie <END> w <START:location> głównej sypialni <END> proszę
+wyłącz <START:location> pokój dzienny <END> <START:object> wentylator <END>
+zatrzymać <START:object> zmywarkę <END>
+wyłącz <START:object> tv <END>
+wyłączyć <START:object> światła <END> w <START:location> pokój Billa <END> proszę
+wyłączyć termostat <START:object> <END>
+dezaktywować <START:object> klimatyzacja <END>
+wyłączyć odbiornik <START:object> audio <END> w salonie <START: location> <END>
+zatrzymaj projektor <START:object> <END> w pomieszczeniu <START:location> w pomieszczeniu kina domowego <END>
+wyłącz <START:location> kuchnia <END> <START:object> światła <END>
+zatrzymać <START:object> pompa wody <END>
+wyłączyć <START:object> odtwarzacz muzyki <END> w <START:location> sypialnia Daniela <END>
+dezaktywować alarm <START:object> alarm <END>
+proszę wyłączyć detekcję ruchu <START:object> <END> w <START:object> parter <END>
+wyłączyć <START:object> światła <END> <START:location> parter <END>
+zatrzymaj <START:object> odtwarzacz muzyki <END> w <START:location> w pokoju amy <END>
+zatrzymać <START:object> muzyka <END> w salonie <START: location> <END>
+dezaktywować alarm <START:object> alarm <END>
+Nie chcę już więcej <START:object> muzyka <END> w <START:location> kuchnia <END>
+Nie chcę już <START:object> ogrzewanie <END> w <START:location> salonu <END>
+Nie chcę już więcej <START:object> fan <END> w <START: location> salonie <END>
+Nie chcę więcej <START:object> oświetlenie <END> w <START:location> korytarz <END>
+Nie podoba mi się <START:object> ogrzewanie <END> w sypialni <START: location> <END>
+nie więcej <START:object> światła <END> w sypialni <START: location> <END>
+nie więcej <START:object> klimatyzacja <END> proszę
+dezaktywuj <START:object> alarm <END> proszę

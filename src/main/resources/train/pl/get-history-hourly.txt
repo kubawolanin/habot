@@ -1,0 +1,14 @@
+pokaż mi historię <START:object> temperatura <END> w ciągu ostatniej godziny
+Chcę wykres z ostatniej godziny dla <START:object> zużycie energii <END>
+wykres godzinowy <START:object> temperatura <END> w <START:location> kuchnia <END>
+wykres godzinowy <START:object> temperatura <END> w pomieszczeniu <START:location> <END>
+wykreślić <START:object> temperatura <END> dla <START:location> salonu <END> dla ostatniego <START: okres> 2 <END> godzin
+<START:object> temperatura <END> w <START:location> salon <END> w poprzednim <START: okres> 6 <END> godzin
+ewolucja <START:object> temperatura <END> w <START:location> łazienka <END> dla tych <START: okres> 2 <END> godzin
+zmiany w <START:object> temperatura <END> w <START:location> sypialnia <END> powyżej <START: okres> 6 <END> godzin
+<START:object> temperatura <END> w <START:location> salon <END> dla <START: okres> 12 <END> godzin
+wykres <START:object> temperatura <END> w <START:location> sala Erica <END> w ciągu ostatnich <START: okres> 4 <END> godzin
+proszę narysować mi wykres <START:object> wilgotność <END> w <START:location> sala franka <END> ostatniego <START: okres> 8 <END> godzin
+wykres <START:object> światła <END> w <START:location> korytarz na górze <END> dla ostatniego <START: okres> 3 <END> godzin
+narysuj tabelę <START:object> roleta <END> w <START:location> na dole klatki schodowej <END> dla ostatniego <START: okres> 3 <END> godzin
+<START:object> żądana temperatura <END> w <START:location> sypialnia główna <END> w okresie <START: okres> 6 <END> godzin

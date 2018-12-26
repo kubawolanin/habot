@@ -1,0 +1,10 @@
+pokaż historię <START:object> temperatura <END> z poprzedniego dnia
+Chciałbym wczoraj wykres <START:object> zużycie energii <END>
+wykres <START:object> temperatura <END> w <START:location> salonu <END> dzisiaj
+pokaż wykres <START:object> temperatura <END> w <START:location> kuchnia <END> na dziś
+wykres dzisiejszego <START:object> temperatura <END> w <START:location> łazienka <END>
+<START:object> temperatura <END> w <START:location> salon <END> dla ostatniego <START: okres> 2 <END> dni
+ewolucja <START:object> temperatura <END> w <START:location> jadalnia <END> powyżej <START: okres> 3 <END> dni
+zmiany <START:object> zużycie wody <END> w <START:location> ogród <END> ostatnie <START: okres> 4 <END> dni
+jaki był <START:object> zużycie gazu naturalnego <END> ostatniego <START: okres> 4 <END> dni
+wykreślić <START:object> wilgotność <END> powyżej <START: okres> 5 <END> dni
